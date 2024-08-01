@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #ea9cdd;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #ea9cca;
 					}
 
 /* Footer */
@@ -2229,6 +2229,7 @@ input, select, textarea {
 				#main > section.dark strong {
 					color: #fff;
 					border-color: inherit;
+					font-weight: bold;
 				}
 
 				#main > section.dark a {
@@ -2248,9 +2249,8 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #ffdcfc;
-				background-image: url("../../images/kristine-cinate-QvjL4y7SF9k-unsplash.jpg");
-				/* Photo by <a href="https://unsplash.com/@kristine_cinate?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kristine Cinate</a> on 
-				<a href="https://unsplash.com/photos/white-and-yellow-petaled-flower-field-during-daytime-QvjL4y7SF9k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> */
+				background-image: url("../../images/jake-weirick-kEgfUDQP-Os-unsplash.jpg");
+				/* Photo by <a href="https://unsplash.com/@weirick?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Weirick</a> on <a href="https://unsplash.com/photos/pathway-between-white-cherry-blossom-trees-kEgfUDQP-Os?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> */
 			}
 
 			#main > section.two {
